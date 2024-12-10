@@ -1,5 +1,5 @@
 # Imsage: ML Model for Image Classification
-
+[Live Demo](https://imsage.streamlit.app/)
 **Imsage** is an image classification web application built using Streamlit and TensorFlow. It integrates two powerful machine learning models: MobileNetV2 (trained on ImageNet) and a custom CIFAR-10 model. This app allows users to upload images and get predictions along with confidence scores from either of the two models. With an intuitive navigation interface, users can seamlessly switch between models and receive real-time predictions. The app also provides an option to download prediction results in CSV format, making it a useful tool for both learning and practical applications in image classification.
 
 ## Key Features
@@ -52,7 +52,7 @@
     streamlit run app.py
 5. **Open the app**: 
     The app will open in your default web browser. If not, navigate to http://localhost:8501
-
+  Check out the live demo [here](https://imsage.streamlit.app/).
 ### Contributing
   Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
 
