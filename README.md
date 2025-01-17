@@ -3,6 +3,11 @@
 **Imsage** is an image classification web application built using Streamlit and TensorFlow. It integrates two powerful machine learning models: MobileNetV2 (trained on ImageNet) and a custom CIFAR-10 model. This app allows users to upload images and get predictions along with confidence scores from either of the two models. With an intuitive navigation interface, users can seamlessly switch between models and receive real-time predictions. The app also provides an option to download prediction results in CSV format, making it a useful tool for both learning and practical applications in image classification.
 
 ## Key Features
+![image](https://github.com/user-attachments/assets/77b1a45e-ca5f-479c-981b-a5326435a6a5)
+![image](https://github.com/user-attachments/assets/ca8487b8-aaf9-475a-892c-b4548730c9bc)
+![image](https://github.com/user-attachments/assets/514df323-2dbb-4265-9a2f-3576b768a1dc)
+![image](https://github.com/user-attachments/assets/af525dd3-bb57-4aef-8655-cc4bf4a85a3e)
+![image](https://github.com/user-attachments/assets/dec06d0e-aa0c-4d0d-9401-02369711842f)
 
 - **Dual Model Support**:
   - **MobileNetV2 (ImageNet)**: Classifies images into 1,000 categories from the ImageNet dataset, including everyday objects, animals, and vehicles.
